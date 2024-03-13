@@ -2,7 +2,7 @@
 
 ## Unidad III
 
-- El proyecto es un sistema de prediccion de diagnosticos y tratamientos con ayuda de la inteligencia artificial chat-gpt 3.5
+El proyecto es un sistema de prediccion de diagnosticos y tratamientos con ayuda de la inteligencia artificial chat-gpt 3.5
 
 ## Integrantes
 
