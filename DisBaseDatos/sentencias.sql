@@ -6,7 +6,7 @@ CREATE TABLE pacientes (
     telefono VARCHAR(30),
     id_archivo_medico INT,
     enfermedad_cronica VARCHAR(30),
-    direccion VARCHAR(30)
+    direccion INT
 );
 
 -- INSERT PARA LA TABLA DE PACIENTES --
